@@ -10,7 +10,7 @@ This first project as a 42 student. The purpose of this project is to create own
 
 ##### 123/125(SUCCESS):
 
-**Part 1 - Libc function ** ✅
+**Part 1 - Libc function** ✅
 
 * [ft_memset](/ft_memset.c)
 * [ft_bzero](/ft_bzero.c)
