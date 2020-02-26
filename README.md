@@ -10,7 +10,7 @@ This first project as a 42 student. The purpose of this project is to create own
 
 ##### 123/125(SUCCESS):
 
-**Part 1 - Libc function **✅
+**Part 1 - Libc function ** ✅
 
 * [ft_memset](/ft_memset.c)
 * [ft_bzero](/ft_bzero.c)
@@ -79,7 +79,7 @@ This first project as a 42 student. The purpose of this project is to create own
 
 ------
 
-##### Usage:
+**Usage:**
 
 1. Compile lbift.a
 
@@ -87,6 +87,17 @@ This first project as a 42 student. The purpose of this project is to create own
 $ make
 ```
 
+2. Clean object files
+
+```
+$ make clean
+```
+
+3. Clean object files and lbift.a file
+
+```
+$ make fclean
+```
 ------
 
 **Helpful links:**
